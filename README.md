@@ -12,4 +12,4 @@ new cleanfilesplugin()
 ]
 
 github 地址:
-https://github.com/weijunh/webpackCleanPlugin.git
+https://github.com/weijunh/cleanfilesPlugin.git
